@@ -1,0 +1,422 @@
+Komarce Final Features
+Did you know 90% of loyalty programs fail to engage customers? KOMARCE changes that. KOMARCE, a new and only UNIFIED LOYALTY CONCEPT that is highly beneficial for the environment and connects customers with independent retailers and renowned brands with unexpected mutual benefits. 
+In today's world, everybody faces different kinds of problems every day. They have to struggle to deal with this problem. KOMARCE is a UNIFIED LOYALTY CONCEPT where problems are converted into rewards. At KOMARCE, waste is not waste—it’s an opportunity. What people spend and discard today becomes their reward tomorrow. It makes life easier and more enjoyable. As a result, people are motivated and contribute to the economy of the country. 
+Our business model is simple but different. We have developed a unique and scalable business model UNIFIED LOYALTY CONCEPT that generates revenue, as we said before, REWARD CONCEPT through POWER OF DISCOUNT. This platform gives CASH DISCOUNT & LOYALTY POINT when people shop with KOMARCE stores or KOMARCE merchants or take services from our service provider. 
+When a person's accumulated reward point is 1500, he/she will get a REWARD NUMBER. Against this number, customers will get a four-tier REWARD system valued at 38,000 points." Following this, 1st tier 800, 2nd tier 1500, 3rd tier 3500, 4th tier 32200. With this point, they can purchase products from our merchants and take services from our service provider and can convert to cash. (depends on local governance policy) 
+At the same time, we will connect more different platforms with us so that people can earn more points like local stores, e-commerce, f-commerce, utility services, VAT etc. Different merchants and organizations will get different types of CASHBACK from us due to this affiliation. Merchants also get Cashback 15% from distributed points, 2% from recommended merchants and 1% from all merchant's distributed points. And additionally they will receive sales recognition and incentive. We also offer conditionally additional services such as digital marketing and offline marketing, logistics and data analytics for our merchants.
+TECHNICAL 
+
+2. Framework: MERN
+
+4. Database: Mysql/MongoDB 
+5. Server: 
+6. Security: SSL encryption / 2FA au 
+WEBSITE FEATURES 
+1. Super Fast Multi-Vendor Online Reward Marketplace 
+2. Multi Country Operational (Bangladesh, Malaysia, UAE, Philippines) 3. Branded Design 
+4. User-friendly interface 
+a. Responsive website for all devices 
+b. Easy navigation / Breadcrumb Navigation 
+c. Multi languages 
+d. Fast loading speed 
+5. Browsing & Search 
+a. Browser Compatibility (chrome, safari, firefox, edge) 
+b. Advanced and real time brand/product search with filters (category, brand, etc.) c. Brand/Product sorting (new, point low to high, best-selling) 
+d. Wishlist / save for later feature 
+6. Detailed brand/product pages 
+a. High-quality images (multiple angles & zoom) 
+b. Brand/Product videos (optional) 
+c. Detailed descriptions, specifications, size charts 
+d. Customer reviews and ratings 
+e. Stock availability status 
+7. Secure and flexible payment option 
+a. Multiple payment option by country 
+b. Multi-country Payment options 
+c. Receive by cash 
+8. Discounts, Deals & Promotions 
+a. Coupon codes and promo offers 
+b. Flash sales and mega sales event 
+c. Bundle offers and combo deals 
+9. Account Management System 
+a. Admin Account 
+b. Partner account 
+c. Merchant account 
+d. Customer account 
+e. Office staff account 
+10. Customer Support System 
+a. Live chat integration
+b. WhatsApp/FB Messenger support 
+c. Phone and email support 
+d. FAQ and help center 
+11. SEO & Marketing Tools 
+a. SEO-friendly URLs and content structure 
+b. Email marketing integration 
+c. Social media sharing buttons 
+d. Facebook pixel, chat plug-in & domain verification setup. 
+e. Google Analytics & domain verification setup. 
+12. Video-based shopping live streams 
+UI/UX WIREFRAME STRUCTURE & DESIGN BRIEF 
+HOME PAGE (rakuten/ayy kori/fave) 
+1. Header 
+a. Favicon 
+b. Moving SMS bar 
+c. Logo(Left) / Product and Merchant search bar(middle) / Sign In button(right) d. The main category is on the left, on the same bar 
+2. Total HEADER will be fixed, don’t move when browsing 
+3. The product or merchant searching option on the search bar will be real-time 4. User registration, login & social login set-up 
+5. After registration, the login button will be a username 
+6. Komarce merchant searching 
+7. Hero banner or Main banner 
+8. Popular category Icons or thumbnails with names under the hero/main banner with the centre positioning system 
+9. Main Advertising area 
+10. Random top-selling brand 
+11. One trending brand category 
+12. 2nd Advertising area 
+13. All categories with product & price 
+14. Shop by brands 
+15. Customer review 
+16. Footer 
+a. Statistics 
+b. Payment logo 
+c. About - Who we are/Our story/Address 
+d. Policies - refund, return, privacy, T&C, FAQ 
+e. Contact Us - phone, email, social media logo with URL 
+f. Short description of the company 
+g. Made with love by KOMARCE, Country Flag 
+h. Copyright info 
+17. Live Chatting option in every page for customers and merchants with customer care 18. Multi-country, Multi-language, Multi-currency - Flp
+CATEGORY PAGE FEATURES 
+1. Category and sub category by brands or product or services 
+2. Pagination - Load more 
+3. Advertisement in every sub category on the top of the page 
+4. Ratings for brands 
+ACCOUNT MANAGEMENT SYSTEM 
+ADMIN ACCOUNT FEATURES: 
+Mainly 2 admin, super/global admin and local country admin 
+1. Global Admin dashboard 
+a. Total global merchants 
+i. Merchant 
+ii. E-merchant 
+iii. Total Star Merchant 
+iv. Total Double Star Merchant 
+v. Total Triple Star Merchant 
+vi. Total Executive Merchant 
+Daily Weekly Monthly Yearly 
+b. Total global Customer 
+i. Top ten customer by SN 
+ii. Top 313 customer by SN as leader board in customer profile iii. Top ten customer by Refer 
+iv. Top 313 customer by Refer as leader board in customer profile 
+Daily Weekly Monthly Yearly 
+c. Total Co-Founder List (global/local) 
+d. Total Global Staff List and details 
+e. Reward Points 
+i. Total global sales to all merchant 
+ii. Total sales country by country 
+iii. Total distributed to customer 
+iv. Total distributed to customer country by country 
+Daily Weekly Monthly Yearly 
+f. Total Global serial number (local S.N shows in local country button) g. Total Local serial number (country by country total count) 
+Daily Weekly Monthly Yearly
+h. Total Withdrawal Amount 
+i. Withdrawals 
+ii. Merchant 
+iii. Customer 
+iv. Withdrawable but not withdraw 
+Daily Weekly Monthly Yearly 
+i. VAT & SERVICE CHARGE 
+i. Total global vat & service charge 
+ii. Vat & service charge county by country 
+Daily weekly Monthly Yearly 
+2. Global Commision & Percentage settings. Confirm password before save edit settings a. Customer Benefits 
+i. Stepup reward 
+ii. Infinity reward 
+iii. Affiliate reward 
+iv. Ripple reward 
+v. Shopping voucher 
+b. Merchant 
+i. Instant cashback 
+ii. Affiliate cashback 
+iii. Profit share cashback 
+iv. Shopping voucher 
+v. Rank Incentive 
+c. Co-founder 
+i. Instant cashback 
+ii. Affiliate cashback 
+iii. Profit share cashback 
+iv. Shopping voucher 
+v. Rank Incentive 
+vi. Partnership commission 
+vii. All partnership commision 
+3. Global Merchant List & E-merchant List (make indication sign for both merchant) 4. Global Customer List 
+5. Global Header manage 
+6. Global Footer manage 
+7. Global User Role & Permissions 
+a. (Admin / Sub Admin/ Manager) 
+8. Global Customer Care 
+a. Merchant 
+b. Customer
+c. Co-founder 
+d. Staff 
+e. Customer Care can see all the info and create reset password link if need but can't edit data and withdraw balance 
+9. Global VAT and Service Charge 
+10. Global Analytics and reporting 
+a. Sales performance reports 
+b. Popular Brand/product tracking 
+c. Customer behavior analysis 
+d. Inventory management 
+11. Global Reporting for customer acquisition 
+a. By customer referral 
+b. By merchant signup 
+c. By e-merchant signup 
+d. By self signup 
+12. Global Reporting for Merchant acquisition 
+a. By self signup 
+b. By merchant referral 
+13. Global Website info daily backup system 
+14. Global NPS (net promoter score) setup for customer and merchant 
+15. Local Country Admin (BGD, MYS, UAE) highlight in the button lower side. When any country admin login his account, dashboard features will be: 
+a. Local Country Admin dashboard 
+i. Total Country Merchants 
+1. Merchant 
+2. E-merchant 
+3. Total Star Merchant 
+4. Total Double Star Merchant 
+5. Total Triple Star Merchant 
+6. Total Executive Merchant 
+Daily Weekly Monthly Yearly 
+ii. Total Local Country Customer 
+1. Top ten customer by SN 
+2. Top 313 customer by SN as leader board in customer profile 
+3. Top ten customer by Refer 
+4. Top 313 customer by Refer as leader board in customer profile 
+Daily Weekly Monthly Yearly
+iii. Total Local Country Co-Founder List 
+iv. Total Local Country Staff List and details 
+v. Local Country Reward Points 
+1. Total sales to merchant 
+2. Total distributed to customer 
+Daily Weekly Monthly Yearly 
+vi. Total Global serial number 
+vii. Country Local serial number 
+Daily Weekly Monthly Yearly 
+viii. Total Local Country Withdrawal Amount 
+1. Withdrawals 
+2. Merchant 
+3. Customer 
+4. Withdrawable but not withdraw 
+Daily weekly Monthly Yearly 
+16. Local Country Header manage 
+17. Local Country Footer manage 
+18. Local Country User Role & Permissions 
+a. (Admin / Sub Admin/ Manager) 
+19. Local Country Customer Care 
+a. Merchant 
+b. Customer 
+c. Co-founder 
+d. Staff 
+e. Customer Care can see all the info and create reset password link if need but can't edit data and withdraw balance 
+20. Local Country VAT and Service Charge 
+21. Local Country Merchant List & E-merchant List (make indication sign for both merchant) 22. Local Country Customer List 
+23. Local Country Analytics and reporting 
+a. Sales performance reports 
+b. Popular Brand/product tracking 
+c. Customer behavior analysis 
+d. Inventory management 
+24. Local Country Reporting for customer acquisition 
+a. By customer referral 
+b. By merchant signup 
+c. By e-merchant signup
+d. By self signup 
+25. Local Country Reporting for Merchant acquisition 
+a. By self signup 
+b. By merchant referral 
+26. Website info daily backup system 
+27. NPS (net promoter score) setup for customer and merchant 
+28. Everything should be dynamic from the admin panel and can be editable 
+CUSTOMER ACCOUNT FEATURES 
+1. Dashboard 
+a. Reward Points সর্বম োট জমাকৃত পয়ে , 1500 হয়ে গে লে ই রি ওয়ার্ড নাার তৈ রি হয়ে যাবে আর এখানে বালে  জি র ো হয়ে যাবে অপে া করবে পরবর্তী পয়ে  আসার। 
+b. Reward সর্বম োট অর্জনকৃত রি ওয়ার্ডে র বালে  শ ো করবে 
+c. Global Reward Number - যতল ো গ্ল োবাল রি ওয়ার্ড নাার থাকবে ট োটাল সংখাটা এখানে শ ো করবে 
+d. Local Reward Number - যতল ো ল োকাল রি ওয়ার্ড নাার থাকবে ট োটাল সংখাটা এখানে শ ো করবে 
+e. Balance রি ওয়ার্ড থে কে ভাট টা মাইনাস করে যত পয়ে  থাকবে বা টাকা থাকবে সে টা বালা এ শ ো করবে 
+f. Daily Login Counting daily Login count করবে যে তি নি কত দি ন লগইন করলে ন 2. Profile 
+a. User ID (mobile number) / First Name / Last Name / Date of Birth / Blood Group b. Mobile number / email / WhatsApp / Telegram 
+c. House Address / Country / City / District / Police Station / Postcode 
+d. Registration Date 
+e. Personal QR code for merchant point transfer: একজন মার্চে  একজন কামারে র নাার কি ংবা ইমে ইল জি জ্ঞে স করা ছাড়াই যে ন কাশ কাউারে দাঁড়ি য়ে খুব ত কামারে র কি উআর ক োড ান করে পয়ে  াফার করতে পারে 
+f. Affiliate link : একজন কামার এই লি ংকে র মাধমে অন যে ক োন কামারকে রে ফার করতে পারবে 
+3. Reward Point 
+a. Accumulated point: যতল ো আইটে ম আছে সব আইটে ম থে কে যত পয়ে  সংহ হবে সর্বম োট এখানে শ ো করবে । ১৪৯৯ পর্য এখানে জমা থাকবে । যখনই ১৫০০ পয়ে  হয়ে যাবে সাথে সাথে এই পয়ে  এক রে ওয়ার্ড নাারে কনভার্ট হয়ে যাবে এবং রি ওয়ার্ড নাার রি ওয়ার্ড নাার option এ শ ো করবে । 
+b. Item wise Point and item wise total collection: যে মন ধরে ন কে নাকাটা থে কে ১৫০০-র মধ্যে এখন কত পয়ে  আসল ো এবং কে নাকাটা থে কে সর্বম োট কত আসল ো। ক একই ভাবে 
+বাকি ল ো, ওয়ে  মানে জমে  থে কে ১৫০০-র মধ্যে এখন কত আসল ো, সর্বম োট কত আসল ো c. Reward History: যে merchant থে কে পয়ে  পে ল কি ংবা ডে ইলি লগইন থে কে পে ল কি ংবা যে ক োন ো একভি র জন পে ল তা এখানে history এল ো থাকবে 
+4. Reward Number
+a. Global Number: একজন কামারে র সর্বম োট সংহি ত পয়ে  ১৫০০ হওয়ার সাথে সাথে এ এক গ্ল োবাল রি ওয়ার্ড নাারে পরি ণত হবে এই নাারে র গাণি তি ক পরি মাপে র মাধমে একজন কামার চার ধাপে সর্বম োট ৩৮০০০ পয়ে  পাবে ন। 
+যে বক্তি র রি ওয়ার্ড নাার ১ তি নি রি ওয়ার্ড হি সে বে ৮০০ পয়ে  পাবে ন যখন গ্ল োবালি ক োানি তে রি ওয়ার্ড নাার ৬ চলমান থাকবে । রি ওয়ার্ড নাার ১, রি ওয়ার্ড হি সে বে ১৫০০ পয়ে  রি ওয়ার্ড পাবে ন যখন গ্ল োবালি ক োানি তে রি ওয়ার্ড নাার ৩০ চলমান থাকবে । ৩৫০০ রে ওয়ার্ড হি সে বে পাবে ন যখন গ্ল োবালি ক োানি তে রি ওয়ার্ড নাার ১২০ চলমান থাকবে । তি নি ৩২২০০ পয়ে  পাবে ন যখন গ্ল োবালি ক োানি তে রি ওয়ার্ড নাার ৪৮০ নাার চলমান থাকবে । এইভাবে ত্যে ক রি ওয়ার্ড নাারে র জন একইভাবে রি ওয়ার্ড তৈ রি হতে থাকবে । 
+b. Local Number 
+c. সর্বম োট গ্ল োবাল এবং ল োকাল রি ওয়ার্ড নাারে র সংখা এবং সে ল োর বি ারি ত যে মন ১৬ নর রি ওয়ার্ড ট োটাল চার ধাপে র মধ্যে কয় স করল কি ংবা ১২০০ নর রি ওয়ার্ড চার ধাপে র মধ্যে কয় ধাপ স করল 
+5. Reward (income) 
+a. রি ওয়ার্ড হল ো মলূত একজন কামার যত ধরনে র ইনকাম ল ো করবে সব এ জায়গাটাতে এসে জমা হবে । তি নি সি রি য়াল নাার থে কে যে ইনকাম করবে ন সে টা এখানে আসবে , যদি কাউকে রে ফার করে ন সে টা এখানে আসবে , daily login এর ইনকাম এখানে আসবে । এবং সবল ো আসার পরে ট োটাল অামাউটা এখানে শ ো করবে । রি ওয়ার্ড/ইনকাম থে কে পয়ে /টাকা াফার করা যাবে Balance ওয়ালে টে এবং সে সময় ১২.৫% পার্সে  ভাট এবং সার্ভি স চার্জ কে টে রাখা হবে । এই মহুূর্তে কামার যে কয় জায়গা থে কে ইনকাম করবে … 
+i. StepUp reward থে কে ৮০০/১৫০০/৩৫০০/৩২২০০ 
+ii. Infinity reward: ৩২২০০ টাকা থে কে ৬০০০ মাইনাস করে নতুন আর ো চার রি ওয়ার্ড নাার জে নারে ট হবে যার তি  নাার stepup reward পাবে । 
+iii. Affiliate reward: একজন কামার অন ক োন কামারকে রে ফার করলে তি নি যতবার যত মার্চে  থে কে পয়ে  পাবে ন সে ই পয়ে ন্টে র উপরে ৫% রে ফার কমি শন বর্তমান কামার পাবে । এবং সারা জীবন পাবে ন। 
+iv. Ripple reward: যে কামারকে রে ফার করলে ন সে ই কামার StepUp রি ওয়ার্ড নাার থে কে যা পাবে তার ওপর ভি ত্তি করে সে খান থে কে আরে ক আয় হবে । যে মন তার কামার ৮০০ পে লে তি নি ৫০ পাবে ন, তার কামার ১৫০০ পে লে তি নি ১০০ পাবে ন, তার কামার ৩৫০০ পে লে তি নি ১৫০ পাবে ন, তার কামার ৩২২০০ পে লে তি নি ৭০০ পাবে ন। 
+v. থাকবে ২৬২০০ টাকা। এই টাকা থে কে আর ো ৬ হাজার টাকা যে ই যে ই মার্চে  থে কে কামার শপি ং করে ছে তাদে র নামে আরে কটা আলাদা ওয়ালে ট এ আনপুাতি ক হারে জমা থাকবে । যে ই টাকা ধুমা ওই নি র্দি  সংখক মার্চে ন্টে র কাছে শপি ং করে ই খরচ করতে 
+হবে । 
+vi. তি দি নে র লগইন থে কে 
+b. History 
+6. Balance (TK) 
+a. All income available here after VAT&SC 
+b. Saved payment method 
+c. Withdraw 
+d. Work like a digital wallet or MFS. Can add money as a digital wallet e. রি ওয়ার্ডে র ঘরে আরে কটা পয়ে  আছে দে খবে ন ভাট এবং সার্ভি স চার্জ। মলূত একজন কামার যত ধরনে র রি ওয়ার্ড তি নি পে লে ন, সে ই অামাউ টা ভাট এবং সার্ভি স চার্জ বাদ দি য়ে বালে  এ এসে
+জমা হবে । যে টা একটা MFS এর মত কাজ করবে । এখান থে কে মলূত পয়ে  উইথ করবে টাকা হি সে বে । চাইলে সে াফার করতে পারবে , কে নাকাটা করতে পারবে 
+7. Affiliate List / Refer customer list: একজন কামার যত জন কামারকে রে ফার করবে ন তাদে র নাম এবং বি ারি ত এখানে থাকবে 
+8. Merchant List (Purchase from Merchant List): একজন কামার যত জন merchant এর কাছ থে কে শপি ং করবে ন তাদে র লি  এখানে থাকবে এবং শপি ং ভাউচার এর ট োটাল টাকা টা এখানে show করবে । 9. Marketing Tools: ক োানি বি ভি  সময়ে মার্কে ং কি ংবা ম োশনে র জন বি ভি  ধরনে র বানার 
+প োার তৈ রি করলে এখানে রে ডি করে থাকবে । কামাররা ডাউনল োড করে এবং ইনফরমে শন এডি ং করে তার নি জ চানে লে প ো করতে পারবে 
+10. Leaderboard: গ্ল োবাল এবং ল োকাল রি জি য়নে ক োন কামার সর্ব ো পয়ে  কি ংবা ক োন কামারে র সর্ব ো সংখক রি ওয়ার্ড নাার আছে তার ভি ত্তি তে লি ডার ব োর্ড সাজান ো হবে যে ন কামারদে র মধ্যে একটা তি য োগি তা তৈ রি হয় 
+11. Security 
+a. Password 
+b. 2FA 
+12. Logout 
+MERCHANT / E-merchant ACCOUNT FEATURES 
+1. Dashboard 
+a. Loyalty Point: একজন মার্চে  ক োানি থে কে যত পয়ে  য় করবে ন তার বর্তমান বালে টা এখানে শ ো করবে 
+b. Total Cashback: সে যত ইনকাম করবে সে টা হচ্ছে মলূত কাশবাক যা এখানে শ ো করবে c. Balance: cashback থে কে ভাট টা মাইনাস করে যত কাশ/পয়ে  থাকবে বা টাকা থাকবে সে টা বালা এ শ ো করবে 
+d. Rank: বর্তমানে সে যে ই রে  বা পজি শন হ ো করে তা এখানে উল্লে খ থাকবে 
+2. Profile 
+a. User ID (mobile number) / First Name / Last Name / Date of Birth / Blood Group b. Mobile number / email / WhatsApp / Telegram 
+c. House Address / Country / City / District / Police Station / Postcode 
+d. Registration Date 
+e. Affiliate/Refer link: একজন মার্চে  এই লি ংকে র মাধমে অন যে ক োন মার্চে কে রে ফার করতে পারবে 
+3. Loyalty Points 
+a. Available Point Balance: একজন মার্চে  ক োানি থে কে যত পয়ে  য় করবে ন এবং তা খরচ করার পরে তার বর্তমান বালে টা এখানে শ ো করবে । 
+b. Total Distributed Point: এই পর্য তি নি ট োটাল যত পয়ে  কামারদে র কে ডি স্ট্রি বি উট করে ছে c. Send: কামারে র ডি টে ইলস কি ংবা ফ োন নাার বা ইমে ইল দে য়ার মাধমে একজন মার্চে  কামারকে পয়ে  াফার করবে ন 
+d. QR Code: সময় বাঁচান োর জন কি ংবা পয়ে  াফার ত করার জন একজন মার্চে  এখানে ক্লি ক করে কামারে র ফ োনে থাকা কি উআর ক োড ান করে পয়ে  াফার করতে পারবে ন e. Purchase History: একজন মার্চে  কবে কত পয়ে  ক োানি থে কে য় করে ছে ন 
+f. Distribution History: একজন মার্চে  কবে ক োন কামারকে কত পয়ে  দি য়ে ছে ন
+4. Cashback(income) 
+a. Total cashback: একজন মার্চে  যত ধরনে র ইনকাম ল ো করবে সব এ জায়গাটাতে এসে জমা হবে b. একজন মার্চে  একজন কামারকে যত পয়ে  াফার করবে ন সে ই পয়ে  এর উপরে instant cashback 15%: 
+c. একজন মার্জে  অন একজন মার্চে  কে রে ফার করতে পারবে ন। সে ক্ষে ত্রে রে ফারকৃত মার্চে  তার কামারকে যত পয়ে  ডি স্ট্রি বি উট করবে ন সে ই পয়ে  এর উপরে মলূ মার্চে  refer/affiliate commission 2% পাবে ন। 
+d. পুর ো ক োানি তে যতজন মার্চে  পুর ো মাসে যত পয়ে  কামারদে রকে ডি স্ট্রি বি উট করবে ন সে ই পয়ে ন্টে র 1% ক োানি তে থাকা সকল মার্চে  কে royalty cashback/Monthly bonus হি সে বে সবাইকে ভাগ করে দে য়া হবে । 
+e. একজন কামারে র ৩২২০০ রি ওয়ার্ড থে কে যে ৬০০০ আলাদা করে কে টে রাখা হবে শপি ং ভাউচার হি সে বে , একজন মার্চে  ওই ৬০০০ এর যে অংশটু তার পাওনা থাকবে সে  এক অংশ জমা হবে যা সে ক োানি থে কে কাশ করতে পারবে । 
+f. Incentive Club: একজন মার্চে  নি র্দি  কি ছুশর্তসাপে ক্ষে চমৎকার ইনসে ন্টি ভ পাবে ন এবং তা ট োটাল সে লস এর উপরে । 
+i. Star Merchant 
+ii. Super Star Merchant 
+iii. Mega Star Merchant 
+iv. Executive Merchant 
+v. Senior Executive Merchant 
+vi. Manager Merchant 
+vii. Co-Founder 
+g. Deduction for VAT&SC: ট োটাল কাশবাক কি ংবা মার্চে ন্টে র ট োটাল ইনকামে র উপর থে কে ১২.৫% ভাট এবং সার্ভি স চার্জ কে টে রাখা হবে 
+h. History 
+5. Balance (TK) 
+a. All income available here after VAT&SC 
+b. Saved payment method 
+c. Withdraw 
+d. Work like a digital wallet or MFS. Can add money as a digital wallet e. মলূত একজন মার্চে  যত ধরনে র কাশবাক বা ইনকাম তি নি পে লে ন, সে ই অামাউ টা ভাট এবং সার্ভি স চার্জ বাদ দি য়ে বালে  এ এসে জমা হবে । যে টা একটা MFS এর মত কাজ করবে । এখান থে কে মলূত পয়ে  উইথ করবে টাকা হি সে বে । চাইলে সে াফার করতে পারবে , কে নাকাটা করতে পারবে 
+6. Refer Merchants List: একজন মার্চে  যত জন মার্চে  কে রে ফার করবে ন তাদে র লি  এবং বি ারি ত থাকবে 
+7. Registered Customer List: যে ই যে ই কামার লাইফ এ থমবার মার্চে  থে কে রি ওয়ার্ড পয়ে  পাবে সে ই সে ই কামার মার্চে ন্টে র রে জি ার্ড কামার হি সে বে লি স্টে ড থাকবে 
+8. Marketing Tools: ক োানি বি ভি  সময়ে মার্কে ং কি ংবা ম োশনে র জন বি ভি  ধরনে র বানার প োার তৈ রি করলে এখানে রে ডি করে থাকবে । মার্চে  ডাউনল োড করে এবং ইনফরমে শন এডি ং করে তার নি জ চানে লে প ো করতে পারবে 
+9. Leaderboard: গ্ল োবাল এবং ল োকাল রি জি য়নে ক োন মার্চে  সর্ব ো পয়ে  আছে তার ভি ত্তি তে লি ডার ব োর্ড সাজান ো হবে যে ন মার্চে দে র মধ্যে একটা তি য োগি তা তৈ রি হয়
+10. Co-founder features: কি ছুকি ছুমার্চে দে রকে আমরা ক োানি র ক ো-ফাউার হি সে বে গণ করব এবং এই সম মার্চে রা কি ছুবে শি সুবি ধা পাবে যা এই বাটনে উল্লে খ থাকবে (co-founder can see all merchant count, customer count, total global reward number by month and co-founder income from 18%). There are 5 types of cofounder 
+a. Growth Partner 1%+14% 
+b. Business Coordinator 1%+14% 
+c. Business Manager 1%+14% 
+d. Regional Coordinator 1%+14% 
+e. Regional Manager 14% 
+ক োানি র মলূ লভাংশ ১৮% থে কে যাবতীয় খরচ (অফি স ভাড়া, াফ সালারি , ইউলি ) করার পরে যা থাকবে তা থে কে ১% পারসে  প পার্টনারদে র কে দে য়া হবে । বাকী টাকার ১% বি জনে স ক োঅর্ডি নে টরদে রকে দে য়া হবে । বাকী টাকার ১% বি জনে স মানে জারদে র দে য়া হবে । বাকী টাকার ১% রি জি ওনাল ক োঅর্ডি নে টরদে রকে দে য়া হবে । বাকী যে ১৪% থাকবে তা রি জি ওনাল মানে জারদে র সহ সব পার্টনারদে র সমান ভাগে দে য়া হবে । 
+11. Security 
+a. Password 
+b. 2FA 
+12. Logout 
+KOMARCE CUSTOMER FACILITIES 
+● একজন বক্তি ইমে ইল, ম োবাইল নাার, নাম ও পাসওয়ার্ড ববহার করে রে জি স্ট্রে শন করবে এবং ম োবাইল নাার ও পাসওয়ার্ড দি য়ে লগ ইন করবে । তার ইউজার আইডি হল ো তার ম োবাইল নাার এবং ডি ফ পাসওয়ার্ড হচ্ছে তার ইউজার আইডি র ম োবাইল নাার। 
+● গ্ল োবাল্লি কামার সংখা কাউ করার জন ত্যে কে র এক নাার তৈ রি হবে যে টা সি স্টে মে র ভি তরে ইউজারে র অাকাউ নাার হি সে বে বি বে চি ত হবে । 
+● ক োন কামার লগইন করার পর সহজ ক োন ো একটা জায়গাতে তার প্র োফাইলে র QR ক োড সে ট করা থাকবে যে ন ক োন মার্জে  নাার কি ংবা ইমে ইল জি জ্ঞে স করা ছাড়াই ধুমা ান করে খুব সহজে পয়ে  াফার করতে পারে 
+● কামার এর ডি ফ পাসওয়ার্ড হচ্ছে তার ম োবাইল নাার, য় োজনে ইমে ইল ববহার করা যাবে 
+● যদি ক োন ো কামার পাসওয়ার্ড ভুলে যায় সে ক্ষে ত্রে ম োবাইলে বা ইমে ইলে ওপি যাবে । কামার সি লে  করবে ওপি ক োথায় নি বে
+● ক োন ধরনে র ইনকাম উইথড্র ো করতে গে লে প্র োফাইল আপডে ট করতে হবে যে মন বাবার নাম, মায়ে র নাম, ভ োটার আইডি কার্ড নাার কি ংবা পাসপ োর্ট নাার, রক্তে র প, নমি নি 
+● সকল ধরনে র কে নাকাটার উপরে ডি সকাউ পাবে পয়ে  হি সে বে এবং তা ওয়ালে টে জমা হতে থাকবে ● তি নি ক োন ক োন মার্চে  হতে কত পয়ে  পে য়ে ছে ন তার হি স্ট্রি থাকবে 
+● যখনই ১৫০০ পয়ে  হবে এর বি পরীতে এক গ্ল োবাল সি রি য়াল নাার এবং ল োকাল সি রি য়াল নাার পাবে তবে আপাতত গ্ল োবাল নাার একভ থাকবে । 
+● একজন কামারে র সি রি য়াল নাার ল োর মি ক নর থাকবে এবং সর্বম োট সি রি য়াল সংখা থাকবে , যে মন…… 
+○ Total Serial Number 5 
+○ 1 - 1 
+○ 2 - 5 
+○ 3 - 15 
+○ 4 - 37 
+○ 5 - 65 
+● এক সি রি য়াল নাার এর বি পরীতে ৬/৫/৪/৪ সূত্রে র ভি ত্তি তে কামার ৩৮,০০০/- পুরার পাবে চার ধাপে ○ ৬ ণ হলে ৮০০ 
+○ ৩০ ণ হলে ১৫০০ 
+○ ১২০ ণ হলে ৩৫০০ 
+○ ৪৮০ ণ হলে ৩২২০০ 
+● ৫/৪/৩/৩ সূত্রে র ভি ত্তি তে ল োকাল সি রি য়াল নাার সাজান ো হবে 
+○ ৫ ণ হলে ৩০০ 
+○ ২০ ণ হলে ৫০০ 
+○ ৬০ ণ হলে ১২০০ 
+○ ১৮০ ণ হলে ৩০০০ 
+● যখন একজন বক্তি চতুর্থ ধাপে র ৩২২০০ টাকা রি ওয়ার্ড পাবে সে খান থে কে ৬০০০ টাকা কে টে ৬০০০ টাকার বি পরীতে ৬০০০ ডি সকাউ পয়ে  দি য়ে চার গ্ল োবাল সি রি য়াল নাার এক্টি ভ করে দে য়া হবে এবং এই ক্রি য়া ধারাবাহি ক ভাবে চলতে থাকবে / আর ো ৬০০০ টাকা কে টে যতজন মার্চে ন্টে র কাছ থে কে তি নি শপি ং করে ছে ন সবাইকে সমানে বন করা হবে কি ংবা আনপুাতি ক হারে বন করা হবে শপি ং ভাউচারে র মাধমে । 
+অর্থাৎ এই টাকা শপি ং ভাউচারে র মাধমে ওই মার্চে ন্টে র নি কট থে কে য় করার মাধমে সময় করবে । বাকি ২০,২০০/- টাকা তাকে দি য়ে দে ওয়া হবে 
+● একজন কামারকে জদি নে পয়ে  উপহার হি সে বে দে ওয়া হবে ১০০/২০০ 
+● ম োশনাল অফারে কামার তার একাউন্টে তি দি ন লগইন করলে কি ছুনা কি ছুপয়ে  পাবে যা দি য়ে সি রি য়াল ধরা যাবে বা সি রি য়ালে র জন পয়ে  কাউ হবে । সাইটে বি াপন থে কে া টাকা দি য়ে এই খরচ করা যে তে পারে কি ংবা মার্কে ং বাজে ট থে কে করা যে তে পারে
+● কামার টুকামার এফি লে শান প্র োামে র জন ত্যে ক কামারে র নি জ অাফি লি য়ে শন লি  আছে , যে ই লি ংকে ক্লি ক করে যে ক োন একজন বক্তি কমার্স এ রে জি স্ট্রে শান করতে পারবে 
+● সকল রে ফার কামারে র নাম থাকবে এবং তাদে র কার কাছ থে কে কত কমি শন পাওয়া গি য়ে ছে তার বি ারি ত থাকবে 
+● একজন কামার অন কামারকে রে ফার করলে , রে ফার কামারে র অর্জি ত পয়ে ন্টে র ৫% কমি শন পাবে 
+● রে ফার কামার যখন চার ধাপে র কমি শন পাবে তখন রে ফারার পাবে 
+○ ৫০ 
+○ ১০০ 
+○ ১৫০ 
+○ ৭০০ 
+● যদি ক োন কামারে র রে ফারার না থাকে সে ক্ষে ত্রে ক োানি সরাসরি রে ফারার হবে 
+● পরি পূর্ণ ভাবে 3  ওয়ালে ট তৈ রি করতে হবে 
+○ রি ওয়ার্ড পয়ে  ওয়ালে ট 
+■ কে নাকাটা থে কে রি ওয়ার্ড 
+■ ওয়ে  মানে জমে  রি ওয়ার্ড 
+■ তি দি ন লগইন reward 
+○ ইনকাম ওয়ালে ট (ত্যে ক টাকার বি ারি ত আলাদা আলাদা হি সাব থাকবে ) 
+■ সি রি য়াল থে কে ইনকাম 
+■ অাফি লি য়ে শন প্র োাম থে কে ইনকাম 
+■ মে ডি কে ল ফে সি লি  
+■ কামার যে ক োন োভাবে ই ইনকাম কক না কে ন সে টা অট োমে ক ভাবে ইনকাম ওয়ালে টে য োগ হয়ে যাবে 
+■ ইনকাম ওয়ালে ট থে কে টাকা াফার করা যাবে কমার্স ওয়ালে টে এবং সে সময় ১২.৫% পার্সে  ভাট এবং সার্ভি স চার্জ সময় করা হবে 
+○ কমার্স ওয়ালে ট 
+■ এড বালে  - কামার চাইলে তার ওয়ালে ট এ বালে  বাহি র থে কে য োগ করতে পারবে বাংক কি ংবা ম োবাইল ফি নান্সি য়াল সার্ভি স এর মাধমে 
+■ কমার্স ওয়ালে ট এক পরি পূর্ণ MFS এর কাজ করবে 
+■ Cashout/Withdrawl - একজন কামার চাইলে তার কমার্স ওয়ালে ট থে কে যে ক োন ো সময় টাকা কাশ আউট বা উইথ করতে পারবে বাংক কি ংবা MFS এর মাধমে অথবা চাইলে কে নাকাটা করতে পারবে ,
+KOMARCE MERCHANT FACILITIES 
+● দইু ধরনে র মার্চে  একাউ থাকবে 
+○ মার্চে  
+○ E-merchant 
+● একজন মার্চে  ইমে ইল, ম োবাইল নাার, নাম ও পাসওয়ার্ড ববহার করে রে জি স্ট্রে শন করবে এবং ম োবাইল নাার ও পাসওয়ার্ড দি য়ে লগ ইন করবে 
+● যদি ক োন ো মার্চে  পাসওয়ার্ড ভুলে যায় সে ক্ষে ত্রে ম োবাইলে ওপি যাবে 
+● মার্চে  প্র োফাইলে মার্চে  রে ফার আইডি শ ো করবে 
+● ক োন ধরনে র ইনকাম উইথড্র ো করতে গে লে প্র োফাইল আপডে ট করতে হবে যে মন বাবার নাম, মায়ে র নাম, ভ োটার আইডি কার্ড নাার কি ংবা পাসপ োর্ট নাার, রক্তে র প, নমি নি 
+● একজন মার্চে  অনান অনলাইন মার্কে টপ্লে স থে কে বি শে ষ কি ছুসুবি ধা কমার্স মার্কে ট মার্কে টপ্লে স পাবে ○ ক োন ধরনে র াটফর্ম Fee দি তে হবে না 
+○ মার্কে ং প্র োম োশন করে দি বে কি ছুশর্তে র বি নি ময়ে যে মন কামারকে রি ওয়ার্ড পয়ে  দি তে হবে ১,০০,০০০/- er ৫% boosting 
+○ কমার্স বি য় বদ্ধিৃদ্ধি করে দি বে 
+● কমার্স মার্কে টপ্লে সে একজন মার্চে ন্টে র ওয়ে বসাইট বা নি জ সপ তৈ রি হবে দারাজে র মত যে খানে নি জ বানার থাকবে 
+● পরি পূর্ণ ভাবে ৩  ওয়ালে ট তৈ রি করতে হবে 
+○ রি ওয়ার্ড পয়ে  ওয়ালে ট - যে খান থে কে কে নাকাটার বি পরীতে কামারকে রি ওয়ার্ড দে য়া হবে 
+○ ইনকাম ওয়ালে ট (তি ন ইনকাম আলাদাভাবে দে খান ো হবে ) 
+■ তি ১৫০০ টাকার ডি সকাউন্টে ১৫% টাকা কাশবাক পাবে 
+■ মার্চে  টুমার্চে  এফি লি য়ে শন প্র োাম এ রে ফারে তি এক হাজার টাকার ডি সকাউন্টে ২% টাকা কাশবাক পাবে 
+■ মার্চে  রয়ে লি  - সব মার্চে  এর বি ক্রি থে কে ১% পয়ে  আলাদা হি সে বে জমা রে খে ম োট টাকা সকল মার্চে  এর মাঝে মাস শে ষে সমহারে বন করা হবে 
+■ ইনকাম ওয়ালে ট থে কে টাকা াফার করা যাবে কমার্স ওয়ালে টে এবং সে সময় ১২.৫% পার্সে  ভাট এবং সার্ভি স চার্জ সময় করা হবে 
+○ কমার্স ওয়ালে ট 
+■ এড বালে  - মার্চে  চাইলে তার ওয়ালে ট এ বালে  বাহি র থে কে য োগ করতে পারবে বাংক কি ংবা ম োবাইল ফি নান্সি য়াল সার্ভি স এর মাধমে 
+■ কমার্স ওয়ালে ট এক পরি পূর্ণ MFS এর কাজ করবে
+● পয়ে  রি চার্জ করবে তি নভাবে …. 
+○ সরাসরি ক োানি কে কাশ দান করার মাধমে 
+○ ক োানি র (বাংক/ম োবাইল) অাকাউন্টে টাকা াফার করার পর রি ওয়ার্ডে র জন রি ক োয়ে  দে ওয়ার মাধমে 
+○ মার্চে  ডাশব োর্ড থে কে পে মে  গে টওয়ে র মাধমে পে মে  করার সাথে সাথে য়ংক্রি য়ভাবে পয়ে  রি চার্জ হয়ে যাবে 
+● তি  ানজে কশন, াফার এবং ইনকামে র এর history থাকবে 
+● তি  পণ বি য়ে র বি পরীতে ডি সকাউ দি তে ই হবে 
+○ রি ওয়ার্ড পয়ে  (বাধতামলূক) 
+○ নগদ ছাড় (অপশনাল) 
+● রি ওয়ার্ড পয়ে  দানে র সি স্টে ম টা মার্চে  তার ডাশব োর্ড থে কে সি লে  করতে পারবে ○ মানয়ুাল 
+■ সে লস এমাউ যাই হ োক মার্চে  তার ইচ্ছে মত ো রি ওয়ার্ড পয়ে  দি তে পারে ন 
+○ অট োমে ক 
+■ (১) তি  পন্যে র এর বি পরি তে পয়ে  প্রি সে ট করা থাকবে 
+■ (২) সে লস এমাউ এর বি পরি তে % অনযুায়ী পয়ে  প্রি সে ট করা থাকবে 
+● বর্তমানে মার্চে এর জন কোনো শর্ত নাই কি পরে এক্টিভ থাকার জন ১০০০/২০০০/৫০০০ পয়ে  কামারকে দিতে হবে 
+● e-মার্চে এর জন প্রোডা বিক্রির ববা রাখতে হবে কোানি থেকে অর্থাৎ কোানি থেকে ডিপি বা পি রেটে প্রোডা নিয়ে এমআরপি রেটে যেন সেল করতে পারে 
+● মার্চেনদের প্রোডাক্টের রিভিউ অন বা অফ করার ববা রাখতে হবে 
+● একজন মার্চে চাইলে প্রোডা ওয়াইস কিংবা সাাইয়ার কোানি ওয়াইজ কত পয়ে কামার কে তিনি দান করলেন তা দেখতে পারবেন যেমন একজন কসমে বিক্রেতা চাইলে তার সাাইয়ার RIBANA কোানির কত টাকার পয়ে তিনি কামারকে দিয়েছেন সেই রিপোর্ট দেখতে পারবেন 
