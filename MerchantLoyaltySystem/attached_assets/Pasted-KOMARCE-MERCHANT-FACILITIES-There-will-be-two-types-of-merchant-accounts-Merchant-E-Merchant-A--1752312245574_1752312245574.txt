@@ -1,0 +1,98 @@
+KOMARCE MERCHANT FACILITIES
+
+There will be two types of merchant accounts:
+
+Merchant
+
+E-Merchant
+
+A merchant will register using their email, mobile number, name, and password, and will log in using their mobile number and password.
+
+If a merchant forgets their password, an OTP will be sent to their mobile.
+
+Merchant profile will display the merchant referral ID.
+
+To withdraw any type of income, the profile must be updated with details such as:
+
+Father's name
+
+Mother's name
+
+Voter ID number or Passport number
+
+Blood group
+
+Nominee information
+
+A merchant will receive special benefits from other online marketplaces through Komarce Marketplace:
+
+No platform fees required
+
+The company will handle marketing and promotions under certain conditions, such as providing 5% reward points on BDT 100,000 boosting
+
+Komarce will help increase the merchant's sales
+
+Each merchant will have a dedicated online store or website within the Komarce Marketplace, similar to Daraz, including their own custom banner.
+
+Three Separate Wallets Must Be Created:
+
+Reward Point Wallet
+
+Points will be given to customers for purchases from this wallet.
+
+Income Wallet (Shows three types of income separately)
+
+15% cashback on every BDT 1,500 discount given
+
+2% cashback on every BDT 1,000 discount under the merchant-to-merchant affiliation program
+
+Merchant Royalty: 1% of all sales from all merchants will be accumulated and distributed equally among all merchants at the end of the month
+
+Funds can be transferred from Income Wallet to Komarce Wallet, with 12.5% VAT and service charge applied
+
+Komarce Wallet
+
+Add Balance: Merchants can top up their wallet using bank or mobile financial services
+
+The Komarce Wallet will function as a full-fledged MFS (Mobile Financial Service)
+
+Three Methods to Recharge Points:
+
+By directly paying cash to the company
+
+By transferring money to the company's bank/mobile account and then requesting reward points
+
+By paying through a payment gateway from the merchant dashboard—points will be recharged automatically
+
+All transactions, transfers, and incomes will have a history log.
+
+For each product sale, discounts must be provided:
+
+Reward Points (Mandatory)
+
+Cash Discount (Optional)
+
+The reward point distribution system can be selected by the merchant from their dashboard:
+
+Manual Mode
+
+Regardless of the sales amount, the merchant can give reward points as per their preference
+
+Automatic Mode
+
+Points will be preset for each product
+
+Points will be preset as a percentage based on the sales amount
+
+Currently, there are no conditions for merchants, but in the future, merchants will be required to distribute 1,000/2,000/5,000 points to customers to stay active.
+
+For E-Merchants:
+
+Product selling options must be available through the company
+
+E-Merchants will buy products at DP or TP rates and sell them at MRP
+
+Merchants should have the option to enable or disable product reviews.
+
+A merchant can view reports of how many points were given to customers per product or per supplier. For example, a cosmetics seller can check how many points were distributed to customers for products supplied by RIBANA.
+

@@ -1,0 +1,123 @@
+MERCHANT / E-MERCHANT ACCOUNT FEATURES
+
+Dashboard
+Loyalty Point: The current balance of points a merchant has purchased from the company will be shown here.
+
+Total Cashback: All the income a merchant earns, referred to as cashback, will be displayed here.
+
+Balance: After deducting VAT and taxes from the cashback, the remaining cash/point amount will be shown here as balance.
+
+Rank: The current rank or position held by the merchant will be shown here.
+
+Profile
+User ID (mobile number) / First Name / Last Name / Date of Birth / Blood Group
+
+Mobile number / email / WhatsApp / Telegram
+
+House Address / Country / City / District / Police Station / Postcode
+
+Registration Date
+
+Affiliate/Refer link: A merchant can refer any other merchant using this link.
+
+Loyalty Points
+Available Point Balance: The current balance of points after a merchant purchases and spends points from the company will be displayed here.
+
+Total Distributed Point: The total number of points distributed to customers by the merchant so far.
+
+Send: A merchant can transfer points to a customer by providing customer details such as phone number or email.
+
+QR Code: To save time or transfer points faster, the merchant can scan the customer’s QR code from their phone and transfer points.
+
+Purchase History: When and how many points a merchant purchased from the company.
+
+Distribution History: When and how many points a merchant distributed to which customer.
+
+Cashback (income)
+Total cashback: All types of income earned by a merchant will be accumulated here.
+
+A merchant will receive 15% instant cashback on the points they transfer to a customer.
+
+A merchant can refer another merchant. When the referred merchant distributes points to customers, the main referring merchant will earn 2% refer/affiliate commission on those points.
+
+The total points distributed to customers by all merchants throughout the month will be calculated, and 1% of that total will be shared among all merchants as royalty cashback/monthly bonus.
+
+From a customer's reward of 32,200, an amount of 6,000 will be separated for shopping vouchers. The portion of this 6,000 that is owed to the merchant will be accumulated, and they can cash it out from the company.
+
+Incentive Club: A merchant will receive attractive incentives based on certain conditions and overall sales performance.
+
+Star Merchant
+
+Super Star Merchant
+
+Mega Star Merchant
+
+Executive Merchant
+
+Senior Executive Merchant
+
+Manager Merchant
+
+Co-Founder
+
+Deduction for VAT & SC: 12.5% VAT and service charge will be deducted from the total cashback or income of the merchant.
+
+History
+Balance (TK):
+
+All income will appear here after deducting VAT & SC.
+
+Saved payment method
+
+Withdraw
+Works like a digital wallet or MFS. Can add money like a digital wallet.
+
+The total cashback or income a merchant receives, after deducting VAT and service charges, will be stored in balance. This will function like an MFS. From here, the merchant can withdraw points as money, transfer them, or make purchases.
+
+Refer Merchants List
+A list and details of all merchants referred by the merchant.
+
+Registered Customer List
+The customers who receive reward points for the first time from the merchant will be listed as registered customers of that merchant.
+
+Marketing Tools
+The company will create various banners and posters for marketing or promotion. Merchants can download, edit the information, and post them on their own channels.
+
+Leaderboard
+A global and local leaderboard will be organized based on which merchant has the highest number of points, creating a competitive atmosphere among merchants.
+
+Co-founder Features
+Some merchants will be considered Co-founders of the company and will enjoy extra benefits, which will be mentioned under this section.
+
+(Co-founders can see all merchant counts, customer counts, total global reward numbers by month, and co-founder income from 18%).
+
+There are 5 types of co-founders:
+
+Growth Partner: 1% + 14%
+
+Business Coordinator: 1% + 14%
+
+Business Manager: 1% + 14%
+
+Regional Coordinator: 1% + 14%
+
+Regional Manager: 14%
+
+From the company's 18% profit share, after all expenses (office rent, staff salary, utility) are deducted:
+
+1% will be given to Growth Partners
+
+1% to Business Coordinators
+
+1% to Business Managers
+
+1% to Regional Coordinators
+
+The remaining 14% will be equally divided among Regional Managers and all other partners.
+
+Security
+Password
+
+2FA
+
+Logout
